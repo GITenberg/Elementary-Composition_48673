@@ -1,4 +1,8 @@
 _repo: Elementary-Composition_48673
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48673-h/images/coverpage.jpg
 creator:
   authors:
   - agent_name: Canfield, Dorothea F.
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '44912'
     url: http://www.gutenberg.org/2009/agents/44912
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48673#Elementary-Composition
 gutenberg_issued: '2015-04-09'
 gutenberg_type: Text
 identifiers:
